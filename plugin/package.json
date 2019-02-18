@@ -1,0 +1,14 @@
+{
+  "name": "bpmnlint-plugin-process-engine",
+  "version": "1.0.0",
+  "private": true,
+  "description": "bpmnlint playground rules",
+  "main": "index.js",
+  "author": {
+    "name": "Bastian Schnittger"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "bpmnlint-utils": "^1.0.1"
+  }
+}
