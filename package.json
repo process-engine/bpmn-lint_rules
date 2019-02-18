@@ -1,0 +1,27 @@
+{
+  "name": "@process-engine/bpmn-lint_rules",
+  "version": "1.0.0",
+  "description": "The recommended rules used for linting BPMN diagrams when using the ProcessEngine.",
+  "scripts": {
+    "build": "mkdir -p dist && bpmnlint-pack-config -c .bpmnlintrc -o dist/packed-config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/process-engine/bpmn-lint_rules.git"
+  },
+  "keywords": [
+    "bpmn",
+    "lint",
+    "rules"
+  ],
+  "author": "Bastian Schnittger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/process-engine/bpmn-lint_rules/issues"
+  },
+  "homepage": "https://github.com/process-engine/bpmn-lint_rules#readme",
+  "dependencies": {
+    "bpmnlint": "^5.0.0",
+    "bpmnlint-pack-config": "^0.5.1"
+  }
+}
