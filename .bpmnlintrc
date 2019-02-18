@@ -1,5 +1,8 @@
 {
-  "extends": "bpmnlint:recommended",
+  "extends": [
+    "bpmnlint:recommended",
+    "plugin:process-engine/recommended"
+  ],
   "rules": {
     "conditional-flows": "warn",
     "end-event-required": "error",
