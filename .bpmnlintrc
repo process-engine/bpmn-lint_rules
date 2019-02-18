@@ -2,17 +2,17 @@
   "extends": "bpmnlint:recommended",
   "rules": {
     "conditional-flows": "warn",
-    "end-event-required": "warn",
+    "end-event-required": "error",
     "event-sub-process-typed-start-event": "warn",
     "label-required": "warn",
     "no-complex-gateway": "warn",
     "no-disconnected": "warn",
     "no-gateway-join-fork": "warn",
-    "no-implicit-split": "warn",
+    "no-implicit-split": "error",
     "no-inclusive-gateway": "warn",
     "single-blank-start-event": "warn",
     "single-event-definition": "warn",
-    "start-event-required": "warn",
-    "sub-process-blank-start-event": "warn"
+    "start-event-required": "error",
+    "sub-process-blank-start-event": "error"
   }
 }
