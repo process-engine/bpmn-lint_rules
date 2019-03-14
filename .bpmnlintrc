@@ -10,7 +10,7 @@
     "label-required": "warn",
     "no-complex-gateway": "warn",
     "no-disconnected": "warn",
-    "no-gateway-join-fork": "warn",
+    "no-gateway-join-fork": "off",
     "no-implicit-split": "error",
     "no-inclusive-gateway": "warn",
     "single-blank-start-event": "off",
