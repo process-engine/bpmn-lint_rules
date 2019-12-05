@@ -22,9 +22,11 @@
   },
   "homepage": "https://github.com/process-engine/bpmn-lint_rules#readme",
   "dependencies": {
-    "@process-engine/ci_tools": "^2.0.0",
     "bpmnlint-plugin-process-engine": "1.7.2",
     "bpmnlint": "^5.0.0",
     "bpmnlint-pack-config": "^0.5.1"
+  },
+  "devDependencies": {
+    "@process-engine/ci_tools": "^2.2.1"
   }
 }
