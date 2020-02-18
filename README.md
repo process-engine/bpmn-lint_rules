@@ -1,7 +1,7 @@
 # BPMN Lint Rules
 The recommended rules used for linting BPMN diagrams with the BPMN Studio.
 
-This rules are directly used by the [BPMN Studio](https://github.com/process-engine/bpmn-studio).
+These rules are directly used by [BPMN Studio](https://github.com/process-engine/bpmn-studio).
 
 ## Relevant URLs 
 
