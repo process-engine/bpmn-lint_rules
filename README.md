@@ -8,7 +8,7 @@ These rules are directly used by [BPMN Studio](https://github.com/process-engine
 - [bpmnlint-plugin-process-engine](https://github.com/process-engine/bpmn-lint_plugin)
 - [bpmn-js-bpmnlint](https://github.com/process-engine/bpmn-js-bpmnlint)
 
-### Authors/Contact information?
+### Authors/Contact information
 
 - Alexander Kasten <alexander.kasten@5minds.de>
 - Steffen Knaup <steffen.knaup@5minds.de>
