@@ -1,6 +1,6 @@
 {
   "name": "@process-engine/bpmn-lint_rules",
-  "version": "1.6.2-alpha.6",
+  "version": "1.7.0",
   "main": "index.js",
   "description": "The recommended rules used for linting BPMN diagrams when using the ProcessEngine.",
   "scripts": {
