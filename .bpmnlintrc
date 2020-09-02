@@ -16,6 +16,8 @@
     "single-blank-start-event": "off",
     "single-event-definition": "warn",
     "start-event-required": "off",
-    "sub-process-blank-start-event": "off"
+    "sub-process-blank-start-event": "off",
+    "process-engine/no-event-based-gateway": "off",
+    "process-engine/no-more-than-one-participant": "off"
   }
 }
